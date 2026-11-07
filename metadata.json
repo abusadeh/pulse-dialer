@@ -1,0 +1,6 @@
+{
+  "name": "Pulse Dialer",
+  "description": "Native Material 3 phone dialer with Telecom InCallService, keypad, call history, contacts, and Xiaomi HyperOS support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
